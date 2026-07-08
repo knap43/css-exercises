@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.class-1 {
+   background-color: #ffa5a5; 
+   font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.class-2,
+#number-4 {
+    font-size: 24px;
+}
+
+#number-2 {
+    color: #0304ff;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: #7fff7f;
+    font-weight: bold;
+}
